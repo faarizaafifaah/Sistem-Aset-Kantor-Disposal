@@ -2,6 +2,7 @@
 
 Aplikasi web berbasis *Single-Page Application* (SPA) untuk mengelola inventaris aset perusahaan milik **PT. Zeea**. Sistem ini dirancang untuk memantau kondisi aset, menghitung akhir masa manfaat secara otomatis, mencatat pelepasan (*disposal*), serta mendeteksi aktivitas pengunjung yang membuka aplikasi secara *real-time*.
 
+Demo web: https://faarizaafifaah.github.io/Sistem-Aset-Kantor-Disposal/
 ---
 
 ## ✨ Fitur Utama
